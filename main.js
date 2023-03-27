@@ -3,10 +3,10 @@ console.clear();
 http.__okhttp__.setTimeout(10000);
 
 let url = [
-    'https://gh-proxy.com/https://raw.githubusercontent.com/zlj520/HHXX/main/UI.js',
-    "https://ghproxy.com/https://raw.githubusercontent.com/zlj520/HHXX/main/UI.js",
-    'https://cdn.jsdelivr.net/gh/zlj520/HHXX@main/UI.js',
-    'https://raw.githubusercontent.com/zlj520/HHXX/main/UI.js',
+    'https://gh-proxy.com/https://raw.githubusercontent.com/zlj520/XX1XX/main/UI.js',
+    "https://ghproxy.com/https://raw.githubusercontent.com/zlj520/XX1XX/main/UI.js",
+    'https://cdn.jsdelivr.net/gh/zlj520/XX1XX@main/UI.js',
+    'https://raw.githubusercontent.com/zlj520/XX1XX/main/UI.js',
 ];
 
 for (var i = 0; i < url.length; i++) {
